@@ -17,7 +17,7 @@ MLFS-YOLO is a novel object detection framework developed by Xu Rao at ShenSi La
 
 This research project introduces several key technical innovations to address the limitations of existing object detectors, with particular focus on small-scale defects, complex backgrounds, and challenging environmental conditions.
 
-**For academic collaboration or access to the complete resources, please contact the author directly.**
+**Due to privacy and intellectual property considerations, for academic collaboration or access to the complete resources, please contact the author directly.**
 
 ## Key Innovations
 
@@ -157,7 +157,7 @@ MLFS-YOLO/
 - **Model Weights**: The trained MLFS-YOLO model weights files are not included in this repository.
 - **Custom Datasets**: Only a subset of the custom datasets is provided for demonstration purposes in the `datasets/partial_dataset` directory. The public datasets in `datasets/public_dataset` can be downloaded from their respective sources.
 
-For academic collaboration or access to the complete resources, please contact the author directly.
+**Due to privacy and intellectual property considerations, for academic collaboration or access to the complete resources, please contact the author directly.**
 
 ## Performance Highlights
 
