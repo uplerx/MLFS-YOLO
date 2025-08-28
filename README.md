@@ -128,22 +128,22 @@ MLFS-YOLO/
 ├── mlfs_yolo_v10/           # Main code directory (based on YOLOv10)
 │   ├── models/              # Model definitions
 │   │   ├── mlfs/            # MLFS-YOLO specific model implementations
-│   │   │   ├── mlfs.py      # MLFS-YOLO specific modules (ASPP, FS-SCSA, MLFS-BiFPN)
+│   │   │   ├── mlfs.py      # MLFS-YOLO specific modules (ASPP, FS-SCSA, MLFS-BiFPN) For academic collaboration or access to the complete resources, please contact the author directly.
 │   │   ├── nn/                  # Neural network components
 │   │   │   ├── modules/         # Module definitions
 │   │   ├── cfg/                 # Configuration files
 │   │   │   ├── models/
-│   │   │   │   ├── mlfs-yolo.yaml # MLFS-YOLO configuration
+│   │   │   │   ├── mlfs-yolo.yaml # MLFS-YOLO configuration, For academic collaboration or access to the complete resources, please contact the author directly.
 │   │   ├── datasets/        # Dataset configuration files
 │   │   ├── Moudles/             # Reference implementations from source papers
 │   │   ├── datasets/            # Datasets directory
-│   │   │   ├── public_dataset/      # Public benchmark datasets
-│   │   │   ├── partial_dataset/     # Partially provided custom datasets
+│   │   │   ├── public_dataset/      # Public benchmark datasets, For academic collaboration or access to the complete resources, please contact the author directly.
+│   │   │   ├── partial_dataset/     # Partially provided custom datasets, For academic collaboration or access to the complete resources, please contact the author directly.
 │   │   │   └── README.md            # Dataset documentation
-├── train_mlfs_yolo.py       # Training script
-├── predict_mlfs_yolo.py     # Prediction script
-├── run_mlfs_yolo.py         # Unified script for training, validation, and prediction
-├── evaluate_models.py       # Model performance evaluation script
+├── train_mlfs_yolo.py       # Training script, For academic collaboration or access to the complete resources, please contact the author directly.
+├── predict_mlfs_yolo.py     # Prediction script, For academic collaboration or access to the complete resources, please contact the author directly.
+├── run_mlfs_yolo.py         # Unified script for training, validation, and prediction, For academic collaboration or access to the complete resources, please contact the author directly.
+├── evaluate_models.py       # Model performance evaluation script, For academic collaboration or access to the complete resources, please contact the author directly.
 └── README.md                # Documentation
 ```
 
@@ -151,6 +151,7 @@ MLFS-YOLO/
 
 **Due to privacy and intellectual property considerations:**
 
+- **Documents**: There is partial code and structural documentation.
 - **Model Weights**: The trained MLFS-YOLO model weights files are not included in this repository.
 - **Custom Datasets**: Only a subset of the custom datasets is provided for demonstration purposes in the `datasets/partial_dataset` directory. The public datasets in `datasets/public_dataset` can be downloaded from their respective sources.
 
