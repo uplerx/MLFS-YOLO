@@ -231,11 +231,6 @@ MLFS-YOLO enhances detection performance compared to the base YOLOv10 model, wit
 - Enhanced feature representation with spatial-channel attention
 - Improved context awareness through multi-scale feature aggregation
 
-### Detection Examples
-
-![MLFS-YOLO Detection Examples](mlfs_yolo_v10/assets/examples_our_dataset.png)
-*Fig. 1: Example detection results from MLFS-YOLO on road damage detection. The model demonstrates robust detection of different types of damages including early-stage cracks, potholes, and blurred marking lines.*
-
 ### Performance Comparison
 
 #### Algorithm Comparison on Self-Built Dataset
