@@ -17,6 +17,8 @@ MLFS-YOLO is a novel object detection framework developed by Xu Rao at ShenSi La
 
 This research project introduces several key technical innovations to address the limitations of existing object detectors, with particular focus on small-scale defects, complex backgrounds, and challenging environmental conditions.
 
+**For academic collaboration or access to the complete resources, please contact the author directly.**
+
 ## Key Innovations
 
 <div align="center">
